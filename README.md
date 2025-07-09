@@ -77,7 +77,7 @@ Ensure you have the following installed on your system:
 First, clone the project repository from GitHub to your local machine. If you are viewing this README directly from a downloaded archive, you can skip this step and proceed to 3.3.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/password-strength-checker.git
+git clone https://github.com/shree-aru/password-strength-checker.git
 cd password-strength-checker
 ```
 
